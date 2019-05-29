@@ -19,4 +19,4 @@ failed deliveries or improper routing.
 
 #### QuadX Solution:
 
-See 7-character postal code system adopted
+See 7-character postal code system adopted from [Philippine Standard Geographic Code](https://psa.gov.ph/classification/psgc/) (PSGC)*
