@@ -21,4 +21,5 @@ failed deliveries or improper routing.
 
 See 7-character postal code system adopted from [Philippine Standard Geographic Code](https://psa.gov.ph/classification/psgc/) (PSGC)*
 
-![Screenshot 2019-05-29 13.43.32.png]({{site.baseurl}}/docs/Screenshot 2019-05-29 13.43.32.png)
+![xcode-image.png]({{site.baseurl}}/docs/xcode-image.png)
+
