@@ -1,4 +1,4 @@
-## Address Management at QuadXmmm
+## Address Management at QuadX
 
 ### Streamlining through address standards and new Postal Code
 
