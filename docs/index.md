@@ -23,4 +23,4 @@ See 7-character postal code system adopted from [Philippine Standard Geographic 
 
 ![xcode-image.png]({{site.baseurl}}/xcode-image.png)
 
-This is a test
+THIS IS A DEMO
