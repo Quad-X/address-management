@@ -14,7 +14,8 @@ Furthermore, efficiency gains can be extended to enable auto-fill of customer ad
 
 ### Proposed Solution
 
-Since 2018, QuadX has been working with other industry participants to align on a set of address guidelines which were based on an existing government standard called **Philippine Standard Geographic Code** ([PSGC](https://psa.gov.ph/)), which is part of the [Philippine Statistics Authority](https://psa.gov.ph/).  
+Since 2018, QuadX has been working with other industry participants to align on a set of address guidelines which were based on an existing government standard called **Philippine Standard Geographic Code** ([PSGC](https://psa.gov.ph/)), which is part of the [Philippine Statistics Authority](https://psa.gov.ph/). We call it XCode. Short for QuadX Code is a 7 digit Alphanumeric postal code system that gives a unique ID for every province, city and barangay in the Philippines.
+
 
 ### Benefits
 
@@ -27,8 +28,26 @@ Unlike the traditional 4-Digit postal code, Xcode conveys information without ad
 #### Comprehensive List 
 Includes the latest location changes from Province (Davao Occidental) to District level (Bgy. Madilay-dilay, Tanay, Rizal). XCode is compliant to Philippines Standard Geographic Code (PSGC)
 
+### XCode’s different Administrative Levels
+XCode can represent the following administrative levels
+
+<center>![xcode-breakdown.png]({{site.baseurl}}/xcode-breakdown.png)</center>
+</center>XCode Breakdown</center>
 
 
+#### Province Level
+If the last 5 digits of xcode is “00000” it means that XCode is in Province Level.
+i.e. MM00000 means Metro Manila
+
+#### City Level
+If the last 3 digits of xcode is “000” it means that XCode is in City Level.
+i.e. MM01000 means Caloocan City, Metro Manila
+
+#### District Level
+If the last 3 digits of xcode is not “000” it means that XCode is in District Level.
+i.e. MM01001 means Barangay 1, Caloocan City, Metro Manila
+
+### Difference to PSGC
 See 7-character postal code system adopted from [Philippine Standard Geographic Code](https://psa.gov.ph/classification/psgc/) (PSGC)*
 
 ![xcode-image.png]({{site.baseurl}}/xcode-image.png)
