@@ -16,6 +16,19 @@ Furthermore, efficiency gains can be extended to enable auto-fill of customer ad
 
 Since 2018, QuadX has been working with other industry participants to align on a set of address guidelines which were based on an existing government standard called **Philippine Standard Geographic Code** ([PSGC](https://psa.gov.ph/)), which is part of the [Philippine Statistics Authority](https://psa.gov.ph/).  
 
+### Benefits
+
+#### Granularity
+With a simple string, XCode can describe a location up to any barangay in the Philippines. The province code, the first 2 characters, is an easy to memorize mnemonics of the province name. If you want to see the mnemonics table you can jump to “Province mnemonics” section. The city code is a 2 digit representation of the city after the province code. The District Code is a 3 digit representation of the district after the city code.
+
+#### Simplicity
+Unlike the traditional 4-Digit postal code, Xcode conveys information without adding too many characters. The simplicity helps remove inconsistencies in address input.
+
+#### Comprehensive List 
+Includes the latest location changes from Province (Davao Occidental) to District level (Bgy. Madilay-dilay, Tanay, Rizal). XCode is compliant to Philippines Standard Geographic Code (PSGC)
+
+
+
 See 7-character postal code system adopted from [Philippine Standard Geographic Code](https://psa.gov.ph/classification/psgc/) (PSGC)*
 
 ![xcode-image.png]({{site.baseurl}}/xcode-image.png)
