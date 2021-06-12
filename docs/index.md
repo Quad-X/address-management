@@ -31,7 +31,7 @@ Includes the latest location changes from Province (Davao Occidental) to Distric
 ### XCode’s different Administrative Levels
 XCode can represent the following administrative levels
 
-<center>![xcode-breakdown.png]({{site.baseurl}}/xcode-breakdown.png)</center>
+![xcode-breakdown.png]({{site.baseurl}}/xcode-breakdown.png)
 <center>XCode Breakdown</center>
 
 
